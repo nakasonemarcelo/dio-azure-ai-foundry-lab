@@ -37,6 +37,10 @@ Foram feitos os testes com base nas perguntas:
 
 ![alt text](image-4.png)
 
+## Conclusão
+
+O Azure AI Foundry trata-se de uma excelente plataforma para o desenvolvimento de aplicações de AI contando com vários modelos e tecnologias de IA, tornando a utilização da AI algo fácil, escalonável, viável e eficiente.
+
 
 
 
