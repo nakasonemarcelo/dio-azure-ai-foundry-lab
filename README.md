@@ -1,6 +1,6 @@
 # Desafio - Criando um Chatbot Baseado em Conteúdo de PDFs 
 
-Este é um laboratório de chat interativo desenvolvido com base nas aulas do **Bootcamp Microsoft Certification Challenge #3 DP-100**
+Este é um laboratório de chat interativo desenvolvido com base nas aulas do **_Bootcamp Microsoft Certification Challenge #3 DP-100_**
 
 ## Cenário
 
