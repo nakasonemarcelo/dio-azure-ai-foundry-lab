@@ -1,6 +1,6 @@
 # Desafio - Criando um Chatbot Baseado em Conteúdo de PDFs 
 
-Este é um laboratório de chat interativo desenvolvido com base nas aulas do Bootcamp Microsoft Certification Challenge #3 DP-100
+Este é um laboratório de chat interativo desenvolvido com base nas aulas do **Bootcamp Microsoft Certification Challenge #3 DP-100**
 
 ## Cenário
 
@@ -10,7 +10,7 @@ Diante desse desafio, você decide utilizar inteligência artificial para facili
 
 ## Artigos cientificos
 
-Foi escolhido como tema dos artigos científicos a "Precarização do trabalho no Brasil" onde foi feito o upload dos arquivos relacionados para indexação conforme a seguinte figura.
+Foi escolhido como tema dos artigos científicos a *"Precarização do trabalho no Brasil"* onde foi feito o upload dos arquivos relacionados para indexação conforme a seguinte figura.
 
 ![alt text](image-1.png)
 
@@ -25,15 +25,15 @@ Foram selecionados os modelos gpt-4o mini (LLM), o text-embedding-3 small e o te
 
 Foram feitos os testes com base nas perguntas:
 
-- Como se deu a precarização do trabalho no Brasil?
+- *Como se deu a precarização do trabalho no Brasil?*
 
 ![alt text](image-2.png)
 
-- O que a queda no salários provoca na economia a longo prazo?
+- *O que a queda no salários provoca na economia a longo prazo?*
 
 ![alt text](image-3.png)
 
-- Qual a relação com o neo-liberalismo?
+- *Qual a relação com o neo-liberalismo?*
 
 ![alt text](image-4.png)
 
